@@ -32,7 +32,7 @@ Note that `OpenCore` is only used to boot `macOS`, `macOS revovery` and `macOS i
 
 1. [Generate your own](https://dortania.github.io/OpenCore-Post-Install/universal/iservices.html) `Serial Number`, `MLB` and `UUID`, and populate `ROM` with the mac address of your Ethernet port.
 
-2. The `SSDT-PM.aml` is generated using an `X220i` with an `i3-2310M` processor. If you have a different processor, please generate this file after install and replace it.
+2. The `SSDT-PM.aml` is generated using an `X220i` with an `i3-2310M` processor. If you have a different processor, please [generate this file after install](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html#sandy-and-ivy-bridge-power-management) and replace it.
 
 3. If your `X220` has a `USB3.0` port, please [map the port](https://dortania.github.io/OpenCore-Post-Install/usb/) or it might not run at `USB3.0` speed.
 
