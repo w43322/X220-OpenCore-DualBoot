@@ -10,6 +10,10 @@ Note that `OpenCore` is only used to boot `macOS`, `macOS revovery` and `macOS i
 
 ## TLDR
 
+#### Flashing BIOS
+
+1. Flash the modified BIOS under Windows. Instructions are provided in the zip file.
+
 #### To install Windows or to make use of an existing Windows installation, proceed with the following steps
 
 1. Whether it's a fresh install or not, it doesn't matter. You need to make a partition image of your `C drive` using `WinPE` or another computer running `Windows`.
@@ -65,6 +69,7 @@ If anyone is interested in doing this, you're welcomed to fork this repo or crea
 
 | Binary               | Version / Source |
 | -------------------- | ---------------- |
+| Modified 1.46 BIOS   | from [mcdonnelltech](https://x220.mcdonnelltech.com/) |
 | rEFInd               | 0.13.3.1         |
 | OpenCore             | 0.8.4            |
 | Lilu                 | 1.6.2            |
