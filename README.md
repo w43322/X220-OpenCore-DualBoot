@@ -1,5 +1,7 @@
 # X220-OpenCore-DualBoot
 
+![](http://x220.mcdonnelltech.com/wp-content/uploads/2017/06/x220_High_Sierra.jpg)
+
 ## Who is this repo for
 
 Those who want to install `macOS` alongside `Windows` or `linux`. If you intend to install `macOS` only, head to the [X220-Opencore](https://github.com/w43322/X220-OpenCore) repo.
