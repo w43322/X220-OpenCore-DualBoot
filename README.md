@@ -1,6 +1,6 @@
-# X220-OpenCore-DualBoot
+# Lenovo Thinkpad X220 OpenCore Adoption Guide - Dualboot
 
-![](http://x220.mcdonnelltech.com/wp-content/uploads/2017/06/x220_High_Sierra.jpg)
+![](./x220_High_Sierra.jpg)
 
 ## Who is this repo for
 
